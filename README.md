@@ -21,7 +21,7 @@ The solution is designed to work on local machines without requiring external li
 
 ## Project Structure
 
-<details>
+
 ```bash
 protocol_tag/
 ├── src/
@@ -34,7 +34,7 @@ protocol_tag/
 │               │   └── ProtocolLogTagTest.java
 │           ```    
 ├── README.md
-</details>
+
 
 ##Prerequisites
 
