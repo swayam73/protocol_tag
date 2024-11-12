@@ -46,17 +46,15 @@ Using Command Line
 
 Navigate to the source directory:
 
-bash
-Copy code
-cd src
-Compile the Java files:
+```bash
 
-bash
-Copy code
+cd src
+##Compile the Java files:
+
 javac com/assessment/illumino/main/ProtocolLogTag.java
 
-Run the program:
+##Run the program:
 
 java com.assessment.illumino.main.ProtocolLogTag <flow_logs.txt> <lookup_table.csv>
-
+```
 Replace <flow_logs.txt> and <lookup_table.csv> with the paths to your input files.
