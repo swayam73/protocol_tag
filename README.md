@@ -32,9 +32,9 @@ protocol_tag/
 │               │   └── ProtocolLogTag.java
 │               ├── test/
 │               │   └── ProtocolLogTagTest.java
-│           ```    
+│     
 ├── README.md
-
+```
 
 ##Prerequisites
 
